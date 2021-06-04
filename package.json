@@ -1,0 +1,14 @@
+{
+  "name": "cyclic-permutation-kata",
+  "version": "1.0.0",
+  "description": "A fun exercise to work on together - cyclic permutations!",
+  "main": "cyclic-permutations.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "Unlicensed",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
